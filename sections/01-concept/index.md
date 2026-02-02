@@ -10,7 +10,7 @@ nav_order: 2
 
 **Mete.io** is a desktop/mobile application with a graphical user interface, developed using Python and Kivy, that **allows users to see weather forecasts and alerts for different geographic locations**.
 
-The application interacts with an external weather data provider (OpenWeather) and their public Web API presenting the retrieved information with a user-friendly interface.
+The application interacts with an external weather data provider (Open-Meteo) and their public Web API presenting the retrieved information with a user-friendly interface.
 
 ## Users and usage context
 
