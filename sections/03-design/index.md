@@ -61,7 +61,9 @@ Components:
 - LocalLocationRepository;
 - API adapters.
 
-![UML Components diagram](/  ) 
+UML Components diagram
+
+![UML Components diagram](UML_Components_Diagram.png) 
 
 
 ## Infrastructure
@@ -97,7 +99,9 @@ Defined classes and responsibilities:
 - **LocalLocationRepository**: manages local persistence
   - Methods: save(location), list_all()
 
-![UML class diagrams](/ )
+UML class diagram
+
+![UML class diagram](UML_Class_Diagram.png)
 
 ## Interaction
 Components interact synchronously (components wait for call results, the control flow is linear):
@@ -114,7 +118,9 @@ An Example can be:
 4. Response is returned
 5. UI updates the screen
 
-![UML sequence diagram](/ )
+UML sequence diagram
+
+![UML sequence diagram](UML_Sequence_Diagram.png)
 
 ## Behaviour
 
@@ -126,7 +132,9 @@ The only stateful elements should be the ones related to UI (e.g. main screen, s
 
 Local storage is updated when locations are searched.
 
-![UML UI state diagram](/ )
+UML UI state diagram
+
+![UML UI state diagram](UML_State_Diagram.png)
 
 ## Data-related aspects
 Only previously searched locations need to be stored as persistent data. The type of storage is lightweight local storage as a key-value pair.
