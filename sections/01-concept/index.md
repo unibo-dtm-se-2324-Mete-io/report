@@ -18,7 +18,7 @@ The main users of Mete.io are individuals interested in checking weather conditi
 
 ### User Location
 
-Users can be precisely located by using GPS, the most common geolocalization protocol.
+Users can be precisely located by using GPS, the most common geolocation protocol.
 
 ### Frequency of use
 
