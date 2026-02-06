@@ -55,7 +55,7 @@ The Mete.io application had the following requirements:
 
 - for each day there should be a colored dot (green or red) representing the forecast’s accuracy;
 
-- when the colored dot is clicked it should show a description of the accuracy (green with accuracy higher than 80% while red with accuracy lower or equal to 80%).
+- when the colored dot is clicked it should show a description of the accuracy (green with accuracy higher than 95% while red with accuracy lower or equal to 95%).
 
 
 4 - **Choice of location**
