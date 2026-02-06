@@ -67,7 +67,7 @@ UML Components diagram
 
 
 ## Infrastructure
-Mete.io is a **non-distributed system**. All components run on the **user’s machine** and the external weather data is accessed through Open-Meteo API while the geolocalized position is stored locally.
+Mete.io is a **non-distributed system**. All components run on the **user’s machine** and the external weather data is accessed through Open-Meteo API while the geolocated position is stored locally.
 ## Modelling
 
 The domain is simple and can be represented by a single bounded context called **Weather Information**.

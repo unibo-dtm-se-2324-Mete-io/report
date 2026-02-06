@@ -23,10 +23,10 @@ The Mete.io application had the following requirements:
 
 1 - **Location-based indicators**
 
-**Requirement**: When the user opens the application it should display primary indicators based on the user’s location when geolocalization permissions have been granted.
+**Requirement**: When the user opens the application it should display primary indicators based on the user’s location when geolocation permissions have been granted.
 
 **Acceptance criteria**:
-- when the user opens the app for the first time it requests geolocalization permissions that the user can agree to or refuse;
+- when the user opens the app for the first time it requests geolocation permissions that the user can agree to or refuse;
 
 - if the user agrees, the app displays primary indicators for that position (temperature, humidity, wind speed and direction, cloud formation and atmospheric events);
 
@@ -165,5 +165,5 @@ The Mete.io application had the following requirements:
 
 **Forecast accuracy** - an estimation of how reliable a forecast is, expressed through color-coded indicators.
 
-**Geolocalization** - automatic detection of the user’s geographic position.
+**Geolocation** - automatic detection of the user’s geographic position.
 
