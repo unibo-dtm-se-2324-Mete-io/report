@@ -21,3 +21,16 @@ In the future the software should plan and execute releases for Android, by pack
 Mete.io relies entirely on third-party public weather APIs, API downtime or changes in API output may cause temporary loss of functionality. The output changes are partially mitigated by API adapters.
 
 This is an intended behaviour, but it is important to point out.
+
+## Limited Persistence
+- User data (previously searched locations) is stored locally using simple storage mechanisms.
+
+- There is no synchronization across devices (since there is no account authorization).
+
+- Data is lost if the application is uninstalled or the local storage is manually cleared.
+
+In the future user accounts with persistent location data and secondary indicator preferences could be implemented, but it would require a server for the user to connect to, so it would become a distributed system. More simply, manual user data exporting and importing could be implemented.
+
+## Testing extension and coverage analysis
+
+Testing examples provided were not only not practically implemented, but also non-exhaustive. Tests will need to cover all components and account for all the requirements and their acceptance criteria. Test coverage will need to be monitored, but it’s not enough, the quality of the tests will also need to be evaluated and all edge cases should be considered.
