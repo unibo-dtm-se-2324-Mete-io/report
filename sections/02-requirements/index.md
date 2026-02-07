@@ -144,8 +144,7 @@ The Mete.io application had the following requirements:
 **Requirement**: The app should use external APIs to retrieve weather data.
 
 **Acceptance criteria**: 
-- data should be obtained from Open–Meteo, a public weather API;
-- API keys should not be hard-coded.
+- data should be obtained from Open–Meteo, a public weather API.
 
 
 3 - **Data storage**
