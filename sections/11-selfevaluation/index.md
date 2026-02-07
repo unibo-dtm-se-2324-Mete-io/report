@@ -18,3 +18,8 @@ Our team tried to compensate for the lack of code-specific implementation by pro
 
 My design section could be more precise, I reasoned about design choices conceptually based on what was discussed in class and did extra research, but some distinctions were fuzzy and the lack of previous experience in software design has brought in some lack of precision which could have been cleared up later in practical implementation steps. 
 
+##  Morello Evaluation
+
+The major weakness of the project was the lack of an artifact, which created a situation of extensive research to try to cover sections that had topics focused on implementation details.
+
+This affected the writing of the “Development” section because the “implementation details” part should be a practical demonstration of the previous theoretical construction, so not having real software to verify how correct our assumptions were led to a lot of uncertainties on all the next steps of the project.
