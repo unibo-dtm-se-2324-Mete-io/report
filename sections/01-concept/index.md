@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Product type
 
-**Mete.io** is a desktop/mobile application with a graphical user interface, developed using Python and Kivy, that **allows users to see weather forecasts and alerts for different geographic locations**.
+**Mete.io** is a desktop application with a graphical user interface, developed using Python and Kivy, that **allows users to see weather forecasts and alerts for different geographic locations**.
 
 The application interacts with an external weather data provider (Open-Meteo) and their public Web API presenting the retrieved information with a user-friendly interface.
 
@@ -26,7 +26,7 @@ Interaction with Mete.io is expected to happen frequently and for a short period
 
 ### Used devices
 
-The application is designed to run on desktop or mobile devices, using mouse and keyboard or touchscreen. The users access all the features of Mete.io by means of a Graphical User Interface (GUI).
+The application is designed to run on desktop devices, using mouse and keyboard. The users access all the features of Mete.io by means of a Graphical User Interface (GUI).
 
 ### User roles
 
