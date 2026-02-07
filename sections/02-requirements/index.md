@@ -115,7 +115,7 @@ The Mete.io application had the following requirements:
 **Requirement**: The app should work across common devices and operating systems.
 
 **Acceptance criteria**: 
-- the application runs correctly on Android 10+ and Windows 10+ (choice based on market share analysis worldwide);
+- the application runs correctly on Windows 10+ (choice based on market share analysis worldwide);
 - the UI adapts to different screen sizes.
 
 
@@ -144,8 +144,7 @@ The Mete.io application had the following requirements:
 **Requirement**: The app should use external APIs to retrieve weather data.
 
 **Acceptance criteria**: 
-- data should be obtained from Open–Meteo, a public weather API;
-- API keys should not be hard-coded.
+- data should be obtained from Open–Meteo, a public weather API.
 
 
 3 - **Data storage**
